@@ -36,7 +36,7 @@ export function TrainingJourney() {
         <div className="grid gap-12 lg:grid-cols-12 lg:items-center lg:gap-16">
           <Reveal className="lg:col-span-5">
             <p className="font-mono text-xs uppercase tracking-widest text-primary">
-              For Individuals · Personal Training
+              For Individuals · Performance Coaching
             </p>
             <h2 className="mt-4 text-balance text-3xl font-semibold tracking-tight sm:text-4xl lg:text-5xl">
               A clear path from where you are to where you refuse to stop.
